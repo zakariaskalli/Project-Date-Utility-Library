@@ -1,0 +1,11 @@
+﻿  Project 2.cpp
+C:\Project C++\OPP Level-1\Project 2\Project 2\clsDate.h(27,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202.cpp')
+  
+C:\Project C++\OPP Level-1\Project 2\Project 2\clsDate.h(1209,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202.cpp')
+  
+C:\Project C++\OPP Level-1\Project 2\Project 2\clsDate.h(1214,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202.cpp')
+  
+  Project 2.vcxproj -> C:\Project C++\OPP Level-1\Project 2\x64\Debug\Project 2.exe
